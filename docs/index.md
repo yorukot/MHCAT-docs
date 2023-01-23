@@ -5,33 +5,21 @@ sidebar_position: 0
 hide_table_of_contents: true
 ---
 
-# OKP4 Whitepaper & Documentation
+# 快速索引
 
-Welcome! OKP4 is a public PoS layer 1 blockchain built for trust-minimized data sharing. OKP4 is an open interoperable smart contracts platform for highly customized rules, governance mechanisms and business models to align interests between participants and build useful distributed applications.
+歡迎使用MHCAT，現在讓我們簡易的開始了解 MHCAT以及使用吧!
 
 <div class="docs-card-container">
-  <div class="row row-cols-1 row-cols-md-2a g-3">
+  <div class="row row-cols-1 row-cols-md-3a g-3">
     <div class="col">
       <div class="card card-body h-100 d-flex flex-column">
         <a
           href="/whitepaper/abstract/"
           class="card-title card-link stretched-link"
         >
-          <h2>Whitepaper</h2>
+          <h2>MHCAT?</h2>
         </a>
-        <p class="card-text">What is OKP4? What is it for? What is the technical architecture?
-        </p>
-      </div>
-    </div>
-    <div class="col">
-      <div class="card card-body h-100 d-flex flex-column">
-        <a
-          href="/nodes/introduction"
-          class="card-title card-link stretched-link"
-        >
-          <h2>Nodes & Validators</h2>
-        </a>
-        <p class="card-text">Everything that an OKP4 validator should know.
+        <p class="card-text">甚麼是MHCAT，他能如何幫助伺服器
         </p>
       </div>
     </div>
@@ -41,28 +29,41 @@ Welcome! OKP4 is a public PoS layer 1 blockchain built for trust-minimized data 
           href="/faq"
           class="card-title card-link stretched-link"
         >
-          <h2>FAQ</h2>
+          <h2>常見問題</h2>
         </a>
-        <p class="card-text">Get to know more about OKP4.
+        <p class="card-text">這裡有一些MHCAT的常見問提
         </p>
       </div>
     </div>
   </div>
 </div>
 
-## Learn OKP4 concepts
+## 開始使用MHCAT
+
+找到你有興趣的類別立刻開始學習使用吧!
 
 <div class="docs-card-container">
-  <div class="row row-cols-1 row-cols-md-3a g-3">
+  <div class="row row-cols-1 row-cols-md-2a g-3">
     <div class="col">
       <div class="card card-body h-100 d-flex flex-column">
         <a
           href="/whitepaper/abstract/"
           class="card-title card-link stretched-link"
         >
-          <h2>Learn OKP4 in 5'</h2>
+          <h2>代幣系統</h2>
         </a>
-        <p class="card-text">Discover OKP4 and all of its features.</p>
+        <p class="card-text">這個系統貫穿了整個MHCAT，許多系統都有跟他結合，你可以用代幣來做買賣、扭蛋等!</p>
+      </div>
+    </div>
+        <div class="col">
+      <div class="card card-body h-100 d-flex flex-column">
+        <a
+          href="/whitepaper/abstract/"
+          class="card-title card-link stretched-link"
+        >
+          <h2>打工系統</h2>
+        </a>
+        <p class="card-text">這個系統讓你可以在閒暇之餘做更多事，打工除了可以消磨時間外，還可以獲得代幣喔!</p>
       </div>
     </div>
     <div class="col">
@@ -71,44 +72,185 @@ Welcome! OKP4 is a public PoS layer 1 blockchain built for trust-minimized data 
           href="/whitepaper/okp4-blockchain/"
           class="card-title card-link stretched-link"
         >
-          <h2>OKP4 Blockchain</h2>
+          <h2>抽獎系統</h2>
         </a>
-        <p class="card-text">Everything about the first blockchain designed for digital assets sharing & coordination.
+        <p class="card-text">這個抽獎非常非常的人性化，基本上有手就能用!
         </p>
       </div>
     </div>
   </div>
 </div>
-
+<div class="docs-card-container">
+  <div class="row row-cols-1 row-cols-md-2a g-3">
+    <div class="col">
+      <div class="card card-body h-100 d-flex flex-column">
+        <a
+          href="/whitepaper/abstract/"
+          class="card-title card-link stretched-link"
+        >
+          <h2>生日系統</h2>
+        </a>
+        <p class="card-text">想不想要在別人生日的時候讓大家知道呢?這個系統可以通知伺服器的大家有人生日ㄌ，當沒人記得你生日，機器人還是記得喔(x</p>
+      </div>
+    </div>
+        <div class="col">
+      <div class="card card-body h-100 d-flex flex-column">
+        <a
+          href="/whitepaper/abstract/"
+          class="card-title card-link stretched-link"
+        >
+          <h2>經驗系統</h2>
+        </a>
+        <p class="card-text">經驗系統除了讓你知道伺服器誰最活耀外，每次升級還可以取得代幣!</p>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card card-body h-100 d-flex flex-column">
+        <a
+          href="/whitepaper/okp4-blockchain/"
+          class="card-title card-link stretched-link"
+        >
+          <h2>語音包廂</h2>
+        </a>
+        <p class="card-text">語音包廂讓你的伺服器不會有一大堆奇怪的語音頻道，只需要一個語音頻道即可根據需求變出其他頻道!
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="docs-card-container">
+  <div class="row row-cols-1 row-cols-md-2a g-3">
+    <div class="col">
+      <div class="card card-body h-100 d-flex flex-column">
+        <a
+          href="/whitepaper/abstract/"
+          class="card-title card-link stretched-link"
+        >
+          <h2>實用工具</h2>
+        </a>
+        <p class="card-text">Discord有需多不方便的地方，這個類別內的工具可以幫助你更容易使用dsiscord喔!</p>
+      </div>
+    </div>
+        <div class="col">
+      <div class="card card-body h-100 d-flex flex-column">
+        <a
+          href="/whitepaper/abstract/"
+          class="card-title card-link stretched-link"
+        >
+          <h2>扭蛋系統</h2>
+        </a>
+        <p class="card-text">偶爾也想來賭博一下嗎?這個扭蛋非常適合你，扭蛋可以放管理員自己的獎品進去，增加更多趣味性!</p>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card card-body h-100 d-flex flex-column">
+        <a
+          href="/whitepaper/okp4-blockchain/"
+          class="card-title card-link stretched-link"
+        >
+          <h2>公告系統</h2>
+        </a>
+        <p class="card-text">公告系統讓你的公告不再是冰冷的文字，而是可以有更多的變化!
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="docs-card-container">
+  <div class="row row-cols-1 row-cols-md-2a g-3">
+    <div class="col">
+      <div class="card card-body h-100 d-flex flex-column">
+        <a
+          href="/whitepaper/abstract/"
+          class="card-title card-link stretched-link"
+        >
+          <h2>加入設置</h2>
+        </a>
+        <p class="card-text">當有人加入或離開時，想不想發個通知，或者是驗證他是否為機器人?還可以在驗證完成後進行改名!
+        </p>
+      </div>
+    </div>
+        <div class="col">
+      <div class="card card-body h-100 d-flex flex-column">
+        <a
+          href="/whitepaper/abstract/"
+          class="card-title card-link stretched-link"
+        >
+          <h2>私人頻道</h2>
+        </a>
+        <p class="card-text">私人頻道的功能可以讓你的伺服器多一個趣味(已停止更新)</p>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card card-body h-100 d-flex flex-column">
+        <a
+          href="/whitepaper/okp4-blockchain/"
+          class="card-title card-link stretched-link"
+        >
+          <h2>管理系統</h2>
+        </a>
+        <p class="card-text">為了讓你更好的管理伺服器，於是就出現ㄌ這個系統
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="docs-card-container">
+  <div class="row row-cols-1 row-cols-md-2a g-3">
+    <div class="col">
+      <div class="card card-body h-100 d-flex flex-column">
+        <a
+          href="/whitepaper/abstract/"
+          class="card-title card-link stretched-link"
+        >
+          <h2>統計系統</h2>
+        </a>
+        <p class="card-text">統計伺服器的各種數據，包刮xx身分組有幾人擁有，伺服器有幾個人等!</p>
+      </div>
+    </div>
+        <div class="col">
+      <div class="card card-body h-100 d-flex flex-column">
+        <a
+          href="/whitepaper/abstract/"
+          class="card-title card-link stretched-link"
+        >
+          <h2>自動通知</h2>
+        </a>
+        <p class="card-text">讓你依靠機器人定時發送消息，可以使叫大家去吃飯，叫大家投票，或者是睡覺等!</p>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card card-body h-100 d-flex flex-column">
+        <a
+          href="/whitepaper/okp4-blockchain/"
+          class="card-title card-link stretched-link"
+        >
+          <h2>警告系統</h2>
+        </a>
+        <p class="card-text">是否有非常多的困擾是每次警告別人總會忘記警告了幾次，這個系統幫助你計算警告次數，還可以在警告次數到達一定的次數後自動ban或踢出!
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
 <div class="docs-card-container">
   <div class="row row-cols-1 row-cols-md-3a g-3">
     <div class="col">
       <div class="card card-body h-100 d-flex flex-column">
         <a
-          href="/whitepaper/data-spaces/"
+          href="/whitepaper/abstract/"
           class="card-title card-link stretched-link"
         >
-          <h2>Data Spaces</h2>
+          <h2>群組防護</h2>
         </a>
-        <p class="card-text">Everything about Data Spaces : the ecosystems of data and service sharing.</p>
+        <p class="card-text">你的群組是否經常被亂搞?被瘋狂tag?這個系統可以非常有效的阻止這些事!例如當帳號創建時間低於你所設定的十數時，可以將使用者自動踢出!</p>
       </div>
     </div>
-    <div class="col">
-      <div class="card card-body h-100 d-flex flex-column">
-        <a
-          href="/whitepaper/dataverse/"
-          class="card-title card-link stretched-link"
-        >
-          <h2>Dataverse</h2>
-        </a>
-        <p class="card-text">Everything about Dataverse : the ever-extanding universe comprised of all the Datasets, Algorithms, Softwares, Infrastructures, Identity solutions, and other resources referenced in the Blockchain.
-        </p>
-      </div>
-    </div>
+
   </div>
 </div>
 
-## Run OKP4 Nodes
+## 有BUG出現了嗎!!!
 
 <div class="docs-card-container">
   <div class="row row-cols-1 row-cols-md-3a g-3">
@@ -117,83 +259,25 @@ Welcome! OKP4 is a public PoS layer 1 blockchain built for trust-minimized data 
         <a
           href="/nodes/introduction"
           class="card-title card-link stretched-link"
-        ><h2>Tutorials</h2></a>
+        ><h2>常見BUG快速處理</h2></a>
         <p class="card-text">
-          Learn how to set up a node for the testnet and later on for the
-          mainnet.
-        </p>
-      </div>
-    </div>
-    <div class="col">
-      <div class="card card-body h-100 d-flex flex-column">
-        <a
-          href="/nodes/join-testnet"
-          class="card-title card-link stretched-link"
-        ><h2>Join Testnet</h2></a>
-        <p class="card-text">
-          Learn how to become a validator and join the testnet.
+         這裡有一些常見的BUG可以讓你看看如何處理
         </p>
       </div>
     </div>
   </div>
 </div>
 
-## Know more
+感謝你發現了MHCAT，立即從下面的連結找到有關我們的事情吧!
 
-<div class="docs-card-container">
-  <div class="row row-cols-1 row-cols-md-2a g-4">
-    <div class="col">
-      <div class="card card-body h-100 d-flex flex-column">
-        <a href="/faq" class="card-title card-link stretched-link">
-          <h2>FAQ</h2>
-        </a>
-        <p class="card-text">Get to know more about OKP4.</p>
-      </div>
-    </div>
-    <div class="col">
-      <div class="card card-body h-100 d-flex flex-column">
-        <a href="https://linktr.ee/okp4" class="card-title card-link stretched-link">
-          <h2>Social Networks</h2>
-        </a>
-        <p class="card-text">Follow our different social networks.</p>
-      </div>
-    </div>
-    <div class="col">
-      <div class="card card-body h-100 d-flex flex-column">
-        <a href="https://github.com/okp4/" class="card-title card-link stretched-link">
-          <h2>GitHub</h2>
-        </a>
-        <p class="card-text">Contribute to the OKP4 protocol and gateways.</p>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="docs-card-container">
-  <div class="row row-cols-1 row-cols-md-2a g-4">
-    <div class="col">
-      <div class="card card-body h-100 d-flex flex-column">
-        <a href="https://blog.okp4.network/" class="card-title card-link stretched-link">
-          <h2>Blog</h2>
-        </a>
-        <p class="card-text">Know more about our vision.</p>
-      </div>
-    </div>
-    <div class="col">
-      <div class="card card-body h-100 d-flex flex-column">
-        <a href="https://okp4.network" class="card-title card-link stretched-link">
-          <h2>Website</h2>
-        </a>
-        <p class="card-text">OKP4 in a nutshell.</p>
-      </div>
-    </div>
-  </div>
-</div>
+* [官方網站](https://mhcat.xyz/)
+* [Discord](https://discord.gg/7g7VE2Sqna)
+* [Buy me a coffe](https://www.buymeacoffee.com/mhcat)
+* [github](https://github.com/MHNightCat/MHCAT-doc)
+* [discordservers.tw](https://discordservers.tw/bots/964185876559196181)
+* [top.gg](http://localhost:3000/%20https://top.gg/bot/964185876559196181)
 
-Welcome to the OKP4 community! Find out more about us at:
+記得看看這些條款呦w
 
-* [Website](https://okp4.network/)
-* [Discord](https://discord.gg/okp4)
-* [Medium](https://blog.okp4.network/)
-* [Telegram](https://t.me/okp4network)
-* [Twitter](https://twitter.com/OKP4_Protocol)
-* [GitHub](https://github.com/okp4)
+* [隱私權政策](https://mhcat.xyz/)
+* [服務條款](https://discord.gg/7g7VE2Sqna)

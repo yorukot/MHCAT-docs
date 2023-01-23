@@ -5,14 +5,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'OKP4 Docs',
+  title: 'MHCAT',
   tagline: 'Unleash the Knowledge Economy 🚀',
-  url: 'https://okp4.github.io',
+  url: 'https://mhcat.xyz',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',
-  favicon: 'img/favicon.ico',
-  organizationName: 'OKP4',
+  favicon: 'img/MHCAT.ico',
+  organizationName: 'MHCAT',
   projectName: 'docs',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
@@ -51,28 +51,28 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'OKP4',
+        title: 'MHCAT',
         logo: {
-          alt: 'OKP4 Logo',
-          src: '/img/logotype-okp4-light.svg',
-          srcDark: '/img/logotype-okp4-dark.svg'
+          alt: 'MHCAT',
+          src: 'img/MHCAT-light.svg', 
+          srcDark: 'img/MHCAT-dark.svg' 
         },
         items: [
-          {
-            to: '/whitepaper/abstract',
+          { 
+            to: '/MHCAT',
             position: 'left',
-            label: 'Whitepaper (Work in progress)',
-            activeBasePath: "/whitepaper"
+            label: '首頁',
+            activeBasePath: "/mhcat"
           },
           {
-            to: '/nodes/introduction',
-            position: 'left',
-            label: 'Nodes & Validators',
-            activeBasePath: "/nodes"
+            to: '/',
+            position: 'left', 
+            label: '快速索引',
+            activeBasePath: "/"
           },
           {
             type: 'dropdown',
-            label: 'API',
+            label: '各個類別',
             position: 'left',
             items: [
               {
@@ -98,19 +98,30 @@ const config = {
           {
             to: '/faq',
             position: 'left',
-            label: 'FAQ',
+            label: '常見問題',
             activeBasePath: "/faq"
           },
           {
-            href: 'https://discord.gg/okp4',
+            to: '/faq',
+            position: 'left',
+            label: 'BUG處理',
+            activeBasePath: "/faq"
+          },
+          {
+            href: 'https://dsc.gg/mhcat',
+            position: 'right',
+            label: '立即邀請',
+          },
+          {
+            href: 'https://discord.gg/7g7VE2Sqna',
             position: 'right',
             className: 'header-discord-link',
             'aria-label': 'Discord'
           },
           {
-            href: 'https://github.com/okp4',
+            href: 'https://www.buymeacoffee.com/mhcat',
             position: 'right',
-            className: 'header-github-link',
+            className: 'header-byemeacofee-link',
             'aria-label': 'GitHub repository'
           },
           {
@@ -140,46 +151,75 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: '文檔',
             items: [
               {
-                label: 'Whitepaper',
-                to: '/whitepaper/abstract'
+                label: '首頁',
+                to: '/MHCAT'
+              },
+              {
+                label: '快速索引',
+                to: '/'
+              },
+              {
+                label: '常見問題',
+                to: '/MHCAT/faq'
+              },
+              {
+                label: 'BUG處理',
+                to: '/MHCAT/bug'
               }
             ]
           },
           {
-            title: 'Community',
+            title: '連結',
             items: [
               {
-                label: 'Discord',
-                href: 'https://discord.gg/okp4'
+                label: 'MHCAT 網站',
+                href: 'https://mhcat.xyz'
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/OKP4_Protocol'
+                label: 'Discord 支援伺服器',
+                href: 'https://discord.gg/7g7VE2Sqna'
+              },
+              {
+                label: 'Buy me a coffe',
+                href: 'https://www.buymeacoffee.com/mhcat'
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/okp4'
+                href: 'https://github.com/MHNightCat/MHCAT-doc'
               }
             ]
           },
           {
-            title: 'More',
+            title: '為我投票',
             items: [
               {
-                label: 'Medium',
-                href: 'https://medium.com/okp4'
+                label: 'discordservers.tw',
+                href: 'https://discordservers.tw/bots/964185876559196181'
               },
               {
-                label: 'OKP4.network',
-                href: 'https://okp4.network'
+                label: 'top.gg',
+                href: ' https://top.gg/bot/964185876559196181'
+              }
+            ]
+          },
+          {
+            title: '條款',
+            items: [
+              {
+                label: '隱私權政策',
+                to: '/terms/privacy_policy'
+              },
+              {
+                label: '服務條款',
+                to: '/terms/Terms_of_Service'
               }
             ]
           }
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} OKP4`
+        copyright: `Copyright © ${new Date().getFullYear()} MHCAT`
       },
       prism: {
         theme: lightCodeTheme,
