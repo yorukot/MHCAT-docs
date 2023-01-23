@@ -96,16 +96,16 @@ const config = {
             ],
           },
           {
-            to: '/faq',
+            to: '/MHCAT/faq',
             position: 'left',
             label: '常見問題',
-            activeBasePath: "/faq"
+            activeBasePath: "/MHCAT/faq"
           },
           {
-            to: '/faq',
+            to: '/MHCAT/bug',
             position: 'left',
             label: 'BUG處理',
-            activeBasePath: "/faq"
+            activeBasePath: "/BUG"
           },
           {
             href: 'https://dsc.gg/mhcat',
@@ -201,7 +201,7 @@ const config = {
               },
               {
                 label: 'top.gg',
-                href: ' https://top.gg/bot/964185876559196181'
+                href: 'https://top.gg/bot/964185876559196181'
               }
             ]
           },
@@ -212,10 +212,7 @@ const config = {
                 label: '隱私權政策',
                 to: '/terms/privacy_policy'
               },
-              {git add .
-                git commit -m "🌟 | 更新各種東西"
-                git pull origin master
-                git push origin master
+              {
                 label: '服務條款',
                 to: '/terms/Terms_of_Service'
               }
