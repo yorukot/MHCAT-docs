@@ -24,7 +24,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: ({ docPath }) => `https://github.com/okp4/docs/edit/main/docs/${docPath}`,
+          editUrl: ({ docPath }) => `https://github.com/MHNightCat/MHCAT-docs/edit/main/docs/${docPath}`,
           remarkPlugins: [require('remark-math'), require('mdx-mermaid')],
           rehypePlugins: [require('rehype-katex')],
           routeBasePath: "/",
@@ -212,7 +212,10 @@ const config = {
                 label: '隱私權政策',
                 to: '/terms/privacy_policy'
               },
-              {
+              {git add .
+                git commit -m "🌟 | 更新各種東西"
+                git pull origin master
+                git push origin master
                 label: '服務條款',
                 to: '/terms/Terms_of_Service'
               }

@@ -275,7 +275,7 @@ hide_table_of_contents: true
 * [Buy me a coffe](https://www.buymeacoffee.com/mhcat)
 * [github](https://github.com/MHNightCat/MHCAT-doc)
 * [discordservers.tw](https://discordservers.tw/bots/964185876559196181)
-* [top.gg](http://localhost:3000/%20https://top.gg/bot/964185876559196181)
+* [top.gg](https://top.gg/bot/964185876559196181)
 
 記得看看這些條款呦w
 
