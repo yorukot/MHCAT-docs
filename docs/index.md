@@ -4,8 +4,15 @@ hidden: false
 sidebar_position: 0
 hide_table_of_contents: true
 ---
-
 # 快速索引
+
+在開始之前，先跟你說一聲:
+
+### **電腦版的右上角可以更改成暗色模式喔!**
+
+### **手機版的左上角點開來後可以更改成暗色模式喔!**
+
+
 
 歡迎使用MHCAT，這是一隻非常強大的Discord機器人，趕快來進行使用吧!
 
