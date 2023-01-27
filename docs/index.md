@@ -7,14 +7,14 @@ hide_table_of_contents: true
 
 # 快速索引
 
-歡迎使用MHCAT，現在讓我們簡易的開始了解 MHCAT以及使用吧!
+歡迎使用MHCAT，這是一隻非常強大的Discord機器人，趕快來進行使用吧!
 
 <div class="docs-card-container">
   <div class="row row-cols-1 row-cols-md-3a g-3">
     <div class="col">
       <div class="card card-body h-100 d-flex flex-column">
         <a
-          href="/whitepaper/abstract/"
+          href="/MHCAT"
           class="card-title card-link stretched-link"
         >
           <h2>MHCAT?</h2>
@@ -26,7 +26,7 @@ hide_table_of_contents: true
     <div class="col">
       <div class="card card-body h-100 d-flex flex-column">
         <a
-          href="/faq"
+          href="/MHCAT/faq"
           class="card-title card-link stretched-link"
         >
           <h2>常見問題</h2>
@@ -47,7 +47,7 @@ hide_table_of_contents: true
     <div class="col">
       <div class="card card-body h-100 d-flex flex-column">
         <a
-          href="/whitepaper/abstract/"
+          href="/allcommands/代幣系統/add_coin"
           class="card-title card-link stretched-link"
         >
           <h2>代幣系統</h2>
@@ -58,7 +58,7 @@ hide_table_of_contents: true
         <div class="col">
       <div class="card card-body h-100 d-flex flex-column">
         <a
-          href="/whitepaper/abstract/"
+          href="/allcommands/打工系統/work_set"
           class="card-title card-link stretched-link"
         >
           <h2>打工系統</h2>
@@ -69,7 +69,7 @@ hide_table_of_contents: true
     <div class="col">
       <div class="card card-body h-100 d-flex flex-column">
         <a
-          href="/whitepaper/okp4-blockchain/"
+          href="/allcommands/抽獎系統/lotter"
           class="card-title card-link stretched-link"
         >
           <h2>抽獎系統</h2>
@@ -85,7 +85,7 @@ hide_table_of_contents: true
     <div class="col">
       <div class="card card-body h-100 d-flex flex-column">
         <a
-          href="/whitepaper/abstract/"
+          href="/allcommands/生日系統/birthday_message_set"
           class="card-title card-link stretched-link"
         >
           <h2>生日系統</h2>
@@ -96,7 +96,7 @@ hide_table_of_contents: true
         <div class="col">
       <div class="card card-body h-100 d-flex flex-column">
         <a
-          href="/whitepaper/abstract/"
+          href="/allcommands/經驗系統/xp_set"
           class="card-title card-link stretched-link"
         >
           <h2>經驗系統</h2>
@@ -107,7 +107,7 @@ hide_table_of_contents: true
     <div class="col">
       <div class="card card-body h-100 d-flex flex-column">
         <a
-          href="/whitepaper/okp4-blockchain/"
+          href="/allcommands/語音包廂/voice_box_set"
           class="card-title card-link stretched-link"
         >
           <h2>語音包廂</h2>
@@ -123,7 +123,7 @@ hide_table_of_contents: true
     <div class="col">
       <div class="card card-body h-100 d-flex flex-column">
         <a
-          href="/whitepaper/abstract/"
+          href="/allcommands/實用工具/help"
           class="card-title card-link stretched-link"
         >
           <h2>實用工具</h2>
@@ -134,7 +134,7 @@ hide_table_of_contents: true
         <div class="col">
       <div class="card card-body h-100 d-flex flex-column">
         <a
-          href="/whitepaper/abstract/"
+          href="/allcommands/扭蛋系統/gacha_prize_pool_add"
           class="card-title card-link stretched-link"
         >
           <h2>扭蛋系統</h2>
@@ -145,7 +145,7 @@ hide_table_of_contents: true
     <div class="col">
       <div class="card card-body h-100 d-flex flex-column">
         <a
-          href="/whitepaper/okp4-blockchain/"
+          href="/allcommands/公告系統/acc_channel_set"
           class="card-title card-link stretched-link"
         >
           <h2>公告系統</h2>
@@ -161,7 +161,7 @@ hide_table_of_contents: true
     <div class="col">
       <div class="card card-body h-100 d-flex flex-column">
         <a
-          href="/whitepaper/abstract/"
+          href="/allcommands/加入設置/join_role_set"
           class="card-title card-link stretched-link"
         >
           <h2>加入設置</h2>
@@ -173,7 +173,7 @@ hide_table_of_contents: true
         <div class="col">
       <div class="card card-body h-100 d-flex flex-column">
         <a
-          href="/whitepaper/abstract/"
+          href="/allcommands/私人頻道/channel_set"
           class="card-title card-link stretched-link"
         >
           <h2>私人頻道</h2>
@@ -184,7 +184,7 @@ hide_table_of_contents: true
     <div class="col">
       <div class="card card-body h-100 d-flex flex-column">
         <a
-          href="/whitepaper/okp4-blockchain/"
+          href="/allcommands/管理系統/delete_a_lot_message"
           class="card-title card-link stretched-link"
         >
           <h2>管理系統</h2>
@@ -200,7 +200,7 @@ hide_table_of_contents: true
     <div class="col">
       <div class="card card-body h-100 d-flex flex-column">
         <a
-          href="/whitepaper/abstract/"
+          href="/allcommands/統計系統/statistice_create"
           class="card-title card-link stretched-link"
         >
           <h2>統計系統</h2>
@@ -211,7 +211,7 @@ hide_table_of_contents: true
         <div class="col">
       <div class="card card-body h-100 d-flex flex-column">
         <a
-          href="/whitepaper/abstract/"
+          href="/allcommands/自動通知/auto_notion"
           class="card-title card-link stretched-link"
         >
           <h2>自動通知</h2>
@@ -222,7 +222,7 @@ hide_table_of_contents: true
     <div class="col">
       <div class="card card-body h-100 d-flex flex-column">
         <a
-          href="/whitepaper/okp4-blockchain/"
+          href="/allcommands/警告系統/warn_set"
           class="card-title card-link stretched-link"
         >
           <h2>警告系統</h2>
@@ -238,7 +238,7 @@ hide_table_of_contents: true
     <div class="col">
       <div class="card card-body h-100 d-flex flex-column">
         <a
-          href="/whitepaper/abstract/"
+          href="/allcommands/群組防護/account_creat_need_hours"
           class="card-title card-link stretched-link"
         >
           <h2>群組防護</h2>
@@ -257,7 +257,7 @@ hide_table_of_contents: true
     <div class="col">
       <div class="card card-body h-100 d-flex flex-column">
         <a
-          href="/nodes/introduction"
+          href="/MHCAT/bug"
           class="card-title card-link stretched-link"
         ><h2>常見BUG快速處理</h2></a>
         <p class="card-text">

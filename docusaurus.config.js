@@ -71,31 +71,6 @@ const config = {
             activeBasePath: "/"
           },
           {
-            type: 'dropdown',
-            label: '各個類別',
-            position: 'left',
-            items: [
-              {
-                type: 'doc',
-                label: 'Contracts',
-                docId: 'README',
-                docsPluginId: 'contracts'
-              },
-              {
-                type: 'doc',
-                label: 'Modules',
-                docId: 'logic',
-                docsPluginId: 'modules',
-              },
-              {
-                type: 'doc',
-                label: 'Commands',
-                docId: 'okp4d',
-                docsPluginId: 'commands',
-              },
-            ],
-          },
-          {
             to: '/MHCAT/faq',
             position: 'left',
             label: '常見問題',
@@ -127,24 +102,11 @@ const config = {
           {
             type: 'docsVersionDropdown',
             position: 'right',
-            dropdownItemsAfter: [{to: '/contracts/', label: 'Latest version'}],
-            docsPluginId: 'contracts',
-            dropdownActiveClassDisabled: true,
-          },
-          {
-            type: 'docsVersionDropdown',
-            position: 'right',
             dropdownItemsAfter: [{to: '/modules/logic', label: 'Latest version'}],
             docsPluginId: 'modules',
             dropdownActiveClassDisabled: true,
           },
-          {
-            type: 'docsVersionDropdown',
-            position: 'right',
-            dropdownItemsAfter: [{to: '/commands/okp4d', label: 'Latest version'}],
-            docsPluginId: 'commands',
-            dropdownActiveClassDisabled: true,
-          },
+
         ]
       },
       footer: {
@@ -249,14 +211,6 @@ const config = {
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'contracts',
-        path: 'contracts',
-        routeBasePath: 'contracts/'
-      },
-    ],
-    [
-      '@docusaurus/plugin-content-docs',
-      {
         id: 'modules',
         path: 'modules',
         routeBasePath: 'modules/'
@@ -269,7 +223,7 @@ const config = {
         path: 'commands',
         routeBasePath: 'commands/'
       },
-    ],
+    ], 
   ],
   scripts: [
     "/js/matomo.js",
