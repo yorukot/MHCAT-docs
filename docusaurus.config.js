@@ -32,9 +32,13 @@ const config = {
         blog: false,
         theme: {
           customCss: require.resolve('./src/scss/custom.scss')
-        }
+        },
+        gtag: {
+          trackingID: 'G-PJJ2GJ8B7M',
+          anonymizeIP: true,
+        },
       })
-    ]
+    ],
   ],
 
   stylesheets: [
@@ -197,7 +201,6 @@ const config = {
         },
       },
     }),
-
   plugins: [
     'docusaurus-plugin-sass',
     ['drawio', {}],
