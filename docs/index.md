@@ -12,9 +12,14 @@ hide_table_of_contents: true
 
 ### **手機版的左上角點開來後可以更改成暗色模式喔!**
 
-
-
 歡迎使用MHCAT，這是一隻非常強大的Discord機器人，趕快來進行使用吧!
+
+
+# 在開始之前[請先點我邀請機器人!](https://discord.com/api/oauth2/authorize?client_id=964185876559196181&permissions=8&scope=bot%20applications.commands)
+
+如果邀請時有問題，推薦先查看您discord email是否有進行驗證，如依舊有問題，請前往官方discord群組詢問
+
+### 你可能感興趣
 
 <div class="docs-card-container">
   <div class="row row-cols-1 row-cols-md-3a g-3">

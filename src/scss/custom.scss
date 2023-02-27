@@ -15,10 +15,11 @@
 
 :root {
   --ifm-color-primary: #181c49;
-  --ifm-code-font-size: 95%;
+  --ifm-code-font-size: 105%;
   --ifm-font-family-base: "Barlow regular", sans-serif;
   --ifm-heading-font-family: "Montserrat bold", sans-serif;
   --ifm-font-color-base: #181c49;
+  --ifm-font-size-base: 105%;
   --ifm-menu-color: #181c49;
   --ifm-heading-color: #181c49;
   --ifm-background-color-main: transparent linear-gradient(180deg, #faf8f4 0%, white 100%) 0% 0%
@@ -34,6 +35,7 @@
   --ifm-knowledge-graph-base-stroke-color: #433d32;
   --ifm-knowledge-graph-edge-stroke-color: #b5b5b5;
   --ifm-knowledge-graph-base-stroke-width: 3px;
+  --ifm-font-family-monospace: "Barlow regular", sans-serif;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -53,6 +55,7 @@
 }
 
 [data-theme="dark"] .docusaurus-highlight-code-line {
+  font-family: var(--ifm-font-family-base);
   background-color: rgb(0 0 0 / 30%);
 }
 

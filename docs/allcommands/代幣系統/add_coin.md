@@ -1,6 +1,6 @@
 ---
-sidebar_position: 1
-description: /代幣增加
+sidebar_position: 3
+description: 代幣增加or減少
 ---
 
 # 代幣增加
