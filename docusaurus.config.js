@@ -231,6 +231,11 @@ const config = {
   scripts: [
     "/js/matomo.js",
     "/js/redirect.js",
+    {
+      async: true,
+      src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3633235696268475',
+      crossorigin: "anonymous"
+    }, 
   ]
 }
 
