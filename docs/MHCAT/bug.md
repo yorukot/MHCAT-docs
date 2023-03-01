@@ -9,13 +9,19 @@ description: 常見BUG快速處理
   <title>常見BUG快速處理</title>
 </head>
 
-:::info COMING SOON
+### 請點選右邊會有導航欄，可以查看所有常見bug(手機板的在文檔開頭)
 
-✍️ _該篇文章還在寫作中_
+## 為何會出現該申請未受回應?
 
-:::
+這個通常只有兩種可能
 
-### 我的emoji為甚麼都是英文字，沒有正常顯示?
+* 1是因為伺服器過載，一段時間後重新嘗試一次即可
+
+* 2是因為指令有bug
+
+如果你重新嘗試依舊一樣的話請前往官方[discord群組](https://discord.gg/7g7VE2Sqna)回報bug
+
+## 我的emoji為甚麼都是英文字，沒有正常顯示?
 
 為甚麼MCHAT在我的伺服器中emoji都會變成不知名英文字?
 
@@ -37,7 +43,7 @@ description: 常見BUG快速處理
 
 以上，有問題請前往官方discord伺服器詢問
 
-### 身分組位階調高是甚麼意思?
+## 身分組位階調高是甚麼意思?
 
 ![](https://media.discordapp.net/attachments/1061295027260751902/1061295027474673794/IMG_5866.png?width=793&height=241)
 
