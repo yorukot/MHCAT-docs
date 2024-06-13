@@ -106,7 +106,7 @@ description: 加入 & 退出 訊息設置
 
 ## 常見bug處理
 
-* `你傳送的並不是圖片!可至https://mhcat.xyz/allcommands/加入設置/join_message查看教學`
+* `你傳送的並不是圖片!可至https://docsmhcat.nightcat.xyz/allcommands/加入設置/join_message查看教學`
 
 這個就是你輸入的圖片連結是錯誤的，解決方法請看上面的加入訊息的教學
 

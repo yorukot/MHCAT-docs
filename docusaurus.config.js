@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 const config = {
   title: 'MHCAT',
   tagline: 'Unleash the Knowledge Economy 🚀',
-  url: 'https://mhcat.xyz',
+  url: 'https://mhcat.nightcat.xyz',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',
@@ -142,7 +142,7 @@ const config = {
             items: [
               {
                 label: 'MHCAT 網站',
-                href: 'https://mhcat.xyz'
+                href: 'https://mhcat.nightcat.xyz'
               },
               {
                 label: 'Discord 支援伺服器',

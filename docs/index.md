@@ -282,7 +282,7 @@ hide_table_of_contents: true
 
 感謝你發現了MHCAT，立即從下面的連結找到有關我們的事情吧!
 
-* [官方網站](https://mhcat.xyz/)
+* [官方網站](https://mhcat.nightcat.xyz)
 * [Discord](https://discord.gg/7g7VE2Sqna)
 * [Buy me a coffe](https://www.buymeacoffee.com/mhcat)
 * [github](https://github.com/MHNightCat/MHCAT-doc)
@@ -291,5 +291,5 @@ hide_table_of_contents: true
 
 記得看看這些條款呦w
 
-* [隱私權政策](https://mhcat.xyz/)
+* [隱私權政策](https://mhcat.nightcat.xyz)
 * [服務條款](https://discord.gg/7g7VE2Sqna)
